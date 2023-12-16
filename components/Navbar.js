@@ -7,7 +7,7 @@ function Navbar() {
     <nav>
         <div className='logo'>
             <h1>
-              <GiRunningNinja width={128} height={77} /> <span>NinjaApp</span>
+            <span>NinjaApp</span> <GiRunningNinja width={128} height={77} /> 
             </h1>
         </div>
         <Link href='/'>Home</Link>
